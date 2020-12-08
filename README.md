@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### No escuro, há um vazio habitado. Procure por formas, volumes e existências. Ache o botão preto e toque-o quantas vezes precisar.
 <!--
 **transluzir/transluzir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
